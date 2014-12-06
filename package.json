@@ -1,0 +1,19 @@
+{
+  "name": "bind-all",
+  "version": "0.0.1",
+  "description": "A simple convenience function for binding multiple functions to a specific context",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daedelus-j/bind-all"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "js",
+    "helper"
+  ],
+  "author": "ACJDG",
+  "license": "ISC"
+}
