@@ -1,6 +1,6 @@
 
 
-exports = function bindAll(obj) {
+module.exports = function bindAll(obj) {
   var funcs = [].slice.call(arguments, 1);
 
   if (funcs.length === 0) {

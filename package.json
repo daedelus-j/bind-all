@@ -1,5 +1,5 @@
 {
-  "name": "bind-all",
+  "name": "bind-all-lite",
   "version": "0.0.1",
   "description": "A simple convenience function for binding multiple functions to a specific context",
   "main": "index.js",
